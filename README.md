@@ -63,7 +63,7 @@ https://www.reddit.com/user/kojied/
 
 Due to OpenAI API credit limits, the GPT part is **not automated in the script**.  
 Instead, I generated the persona using GPT separately and included it as a `.txt` file.
-If I had sufficient amount of credits then i should have done it.
+Due to unsufficient amount of credits the API should not be accessed.
 
 ---
 
