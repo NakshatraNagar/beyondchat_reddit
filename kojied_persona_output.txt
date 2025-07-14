@@ -1,0 +1,44 @@
+----------------------------------------------------
+NAME:  Ethan (Assumed)
+
+AGE:   24–30
+
+ROLE:  Tech Enthusiast / Hobbyist Programmer
+
+QUOTE:
+“I enjoy experimenting with code and sharing my thoughts with people who get it.”
+
+BIO:
+Ethan is active on multiple tech-related subreddits and engages in in-depth discussions about programming, technology trends, and personal opinions. His language is informal but thoughtful, indicating a curious and analytical personality. He values community interaction and often shares his own experiences or perspectives in threads.
+
+GOALS:
+✓ Stay updated on new technologies  
+✓ Share personal experiences or stories  
+✓ Be part of intellectually engaging discussions
+
+FRUSTRATIONS:
+✘ Toxic behavior in online communities  
+✘ Oversimplified answers or low-effort posts  
+✘ Lack of constructive criticism
+
+TECH COMFORT:
+High – Actively participates in tech subreddits, writes with confidence, and discusses tools and frameworks.
+
+PERSONALITY:
+• Analytical  
+• Honest and opinionated  
+• Curious and self-motivated
+
+TOP INTERESTS:
+💻 Programming  
+📱 Tech news  
+📢 Online communities  
+
+TOP SUBREDDITS:
+r/ProgrammerHumor, r/technology, r/cscareerquestions
+
+CITATIONS:
+→ https://reddit.com/r/technology/comments/...  
+→ https://reddit.com/r/ProgrammerHumor/comments/...  
+→ https://reddit.com/r/cscareerquestions/comments/...
+----------------------------------------------------
